@@ -1,0 +1,12 @@
+# for k in range(1000, 10000):
+#     n = str(k)
+#     s = int(n[0]) + int(n[1]) + int(n[2]) + int(n[3])
+#     m = max(int(n[0]), int(n[1]), int(n[2]), int(n[3]))
+#     n = min(int(n[0]), int(n[1]), int(n[2]), int(n[3]))
+#     p1 = s - m
+#     p2 = s - n
+#     l = str(min(p1, p2)) + str(max(p1, p2))
+#     #print(l)
+#     if l == '1318':
+#         print(k)
+#         break
